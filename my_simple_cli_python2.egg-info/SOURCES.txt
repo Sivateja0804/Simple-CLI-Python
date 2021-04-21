@@ -1,0 +1,7 @@
+README.md
+myecho.py
+setup.py
+my_simple_cli_python2.egg-info/PKG-INFO
+my_simple_cli_python2.egg-info/SOURCES.txt
+my_simple_cli_python2.egg-info/dependency_links.txt
+my_simple_cli_python2.egg-info/top_level.txt
